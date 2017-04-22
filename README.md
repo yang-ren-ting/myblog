@@ -1,5 +1,4 @@
 使用 Express + MongoDB 搭建多人博客
-
 ## 开发环境
 
 - Node.js: `6.9.1`
@@ -15,4 +14,6 @@
 ![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/loghome.jpeg)
 留言功能
 ![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/cont.jpeg)
+
+参考于原文链接https://github.com/nswbmw/N-blog
 
