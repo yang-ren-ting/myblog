@@ -5,5 +5,9 @@
 - Node.js: `6.9.1`
 - MongoDB: `3.2.10`
 效果图如下
+![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/home.jpeg)
+![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/reg.jpeg)
+![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/login.jpeg)
+![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/loghome.jpeg)
 ![](https://github.com/yang-ren-ting/myblog/blob/master/public/dome/cont.jpeg)
 
