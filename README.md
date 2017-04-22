@@ -5,4 +5,5 @@
 - Node.js: `6.9.1`
 - MongoDB: `3.2.10`
 效果图如下
-（https://github.com/yang-ren-ting/myblog/blob/master/public/dome/cont.jpeg）
+（https://github.com/yang-ren-ting/myblog/blob/raw／master/public/dome/cont.jpeg）
+
